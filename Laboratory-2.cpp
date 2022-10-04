@@ -1,4 +1,4 @@
-﻿// Laboratory-1, Вариант 2, Плотников.Д.А
+﻿// Laboratory-2, Вариант 2, Плотников.Д.А
 
 #include <iostream>
 
